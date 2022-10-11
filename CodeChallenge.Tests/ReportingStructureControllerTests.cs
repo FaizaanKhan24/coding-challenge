@@ -6,7 +6,7 @@ using CodeCodeChallenge.Tests.Integration.Extensions;
 using CodeCodeChallenge.Tests.Integration.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CodeChallenge.Tests.Integration
+namespace CodeCodeChallenge.Tests.Integration
 {
     [TestClass]
     public class ReportingStructureControllerTests
